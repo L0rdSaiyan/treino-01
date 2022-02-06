@@ -1,5 +1,3 @@
-dia = input('Informe o dia de seu nascimento: ')
-mes = input('Informe o mês de seu nascimento: ') 
-ano = input('Informe o ano de seu nascimento: ')
+nome = input ('Informe seu nome: ')
 
-print("\nData formatada: \n\n"+dia+"/"+mes+"/"+ano) 
+print('Olá '+nome+" ! Seja bem-vindo!")
